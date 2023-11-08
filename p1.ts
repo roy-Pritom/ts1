@@ -45,10 +45,15 @@ const users1: User[] = [
         roll:5
     },
     {
+
         name: "Joy",
         id: 3,
         roll:3
+        
     },
+
+
+    
 ]
 
 console.log(getPropertiesValue(users1,"roll"));
